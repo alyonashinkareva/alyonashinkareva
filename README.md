@@ -1,6 +1,6 @@
 # Hi there! 👋 
 **My name is Alyona Shinkareva. 
-I am a 2nd year Computer Science student at ITMO University.**
+I am a 3rd year Computer Science student at ITMO University.**
 
 * 💬 Languages: Java, C++.
 * 📫 How to reach me: 
